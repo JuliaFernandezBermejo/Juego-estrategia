@@ -1,0 +1,20 @@
+# Claude Code settings
+.claude/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio cache
+.vs/
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
